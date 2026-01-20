@@ -4,7 +4,7 @@ A deep learning project that classifies cattle images into 5 different breeds us
 
 ##  Project Overview
 
-This is my first hands-on CNN project, built while learning MIT's Intro to Deep Learning course. The model achieves **85%+ accuracy** on the test set.
+This is my first hands-on CNN project, The model achieves **85%+ accuracy** on the test set.
 
 ##  Dataset
 
