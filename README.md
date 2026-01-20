@@ -51,9 +51,5 @@ This is my first hands-on CNN project, The model achieves **85%+ accuracy** on t
 - Preventing overfitting with dropout and batch normalization
 - Model evaluation and visualization
 
-##  Related
-
-Part of my Deep Learning learning journey following MIT 6.S191.
-
 
 
